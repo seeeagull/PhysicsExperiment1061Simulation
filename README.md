@@ -1,1 +1,2 @@
 # PhysicsExperiment1061Simulation
+本程序为北航基础物理实验1061的虚拟仿真程序
